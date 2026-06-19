@@ -1,0 +1,23 @@
+
+{
+  "short_name": "Soul",
+  "name": "Soul: Emotional Journal",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=Journal&backgroundColor=D97706",
+      "type": "image/svg+xml",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/shapes/svg?seed=Journal&backgroundColor=D97706",
+      "type": "image/svg+xml",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#FFFDF5",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#FFFDF5",
+  "orientation": "portrait"
+}
